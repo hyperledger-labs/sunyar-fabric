@@ -1,3 +1,7 @@
+![Status Badge](https://img.shields.io/badge/Status-archived-red)
+
+**NOTE:** This lab has been archived and is no longer being maintained.
+
 # sunyar-fabric
 Sunyar is a settlement distributed system based on Hyperledger fabric. This is a non-profit project for contributing charities to help needy people in a decentralized ecosystem.
 
